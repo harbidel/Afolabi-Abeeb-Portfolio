@@ -26,3 +26,7 @@ The data are contained in the files `links.csv`, `movies.csv`, `ratings.csv` and
 This is a *development* dataset. As such, it may change over time and is not an appropriate dataset for shared research results. See available *benchmark* datasets if that is your intent.
 
 This and other GroupLens data sets are publicly available for download at <http://grouplens.org/datasets/>.
+
+# [Project 4: ASR_Nigeria_Pidgin_Workbook](https://github.com/harbidel/ASR_Nigeria_Pidgin_Workbook/tree/main)
+Towards end-end Training of Automatic Speech Recognition for Nigerian Pidgin
+
