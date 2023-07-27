@@ -30,7 +30,7 @@ This and other GroupLens data sets are publicly available for download at <http:
 # [Project 4: ASR_Nigeria_Pidgin_Workbook](https://github.com/harbidel/ASR_Nigeria_Pidgin_Workbook/tree/main)
 Towards end-end Training of Automatic Speech Recognition for Nigerian Pidgin
 
-# [project 5: Machine-Learning-Web-App](https://github.com/harbidel/Machine-Learning-Web-App)
+# [Project 5: Machine-Learning-Web-App](https://github.com/harbidel/Machine-Learning-Web-App)
 Machine Learning Web App with Streamlit, Sci-kit learn and Matplotlib
 * In this Project I build an interactive machine learning app with Streamlit and Scikit-learn to explore different datasets and classifier. 
 * This project demonstrate how easy interactive web applications can be build with Streamlit. 
