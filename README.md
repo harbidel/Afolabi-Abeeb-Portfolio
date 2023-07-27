@@ -36,7 +36,7 @@ Machine Learning Web App with Streamlit, Sci-kit learn and Matplotlib
 * This project demonstrate how easy interactive web applications can be build with Streamlit. 
 ### Streamlit lets you create beautiful apps for your machine learning projects with simple Python scripts.
 
-# [Hotel_Management_db](https://github.com/harbidel/Hotel_Management_db)
+# [Project 6: Hotel_Management_db](https://github.com/harbidel/Hotel_Management_db)
 Hotel Management Database using Oracle DB
 
 ### Scenario:
