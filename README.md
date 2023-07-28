@@ -57,7 +57,7 @@ The scenario is a Hotel Management System that caters to a hotel chain with mult
 *	Reservations: Data related to each reservation, including the check-in date, check-out date, and reservation status.
 *	Invoices: Details about the invoices generated for guest stays, including invoice number, total amount, and payment status.
 
-# Project 7: Lung-Cancer-Model-Deploy-to-Live-Production
+# [Project 7: Lung-Cancer-Model-Deploy-to-Live-Production](https://github.com/harbidel/Lung-Cancer-Model-Deploy-to-Production)
 Deploying Lung Cancer Machine Learning model to web Applications
 
 Using scikit-learn, pickle, Flask, Microsoft Azure and ipywidgets to fully deploy a Python machine learning algorithm into a live, production environment
