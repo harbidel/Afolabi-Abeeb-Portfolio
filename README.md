@@ -29,6 +29,12 @@ This and other GroupLens data sets are publicly available for download at <http:
 
 # [Project 4: ASR_Nigeria_Pidgin_Workbook](https://github.com/harbidel/ASR_Nigeria_Pidgin_Workbook/tree/main)
 Towards end-end Training of Automatic Speech Recognition for Nigerian Pidgin
+* In this work, we present the first parallel data on Nigerian pidgin 
+* Trained the first end to end speech recognition systems (QuartzNet and Jasper) on this language
+* Open-sourced the data and code to encourage future research in this direction
+* Using our unique dataset, we fine-tuned different variants of the WacaVec2.o architecture 
+* Empirically, we achieved a lower word error rate on the test set, outperforming the baseline method, and also surpassed other variants of the WacaVec2.0 architecture in terms of qualitative assessments.
+
 
 # [Project 5: Machine-Learning-Web-App](https://github.com/harbidel/Machine-Learning-Web-App)
 Machine Learning Web App with Streamlit, Sci-kit learn and Matplotlib
