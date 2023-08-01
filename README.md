@@ -74,3 +74,6 @@ Using scikit-learn, pickle, Flask, Microsoft Azure and ipywidgets to fully deplo
 * Step 3: Develop a Web Service Wrapper
 * Step 4: Deploy the Web Service to Microsoft Azure
 * Step 5: Building a Client Application to Consume the Azure-deployed Web Service
+
+# [Project 8: My blog-app](https://github.com/harbidel/blog-app)
+My blog-app with Django
