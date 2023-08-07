@@ -27,7 +27,7 @@ This is a *development* dataset. As such, it may change over time and is not an 
 
 This and other GroupLens data sets are publicly available for download at <http://grouplens.org/datasets/>.
 
-# [Project 4: ASR_Nigeria_Pidgin_Workbook](https://github.com/harbidel/ASR_Nigeria_Pidgin_Workbook/tree/main)
+# [Project 4: ASR Nigeria Pidgin Workbook](https://github.com/harbidel/ASR_Nigeria_Pidgin_Workbook/tree/main)
 Towards end-end Training of Automatic Speech Recognition for Nigerian Pidgin
 * In this work, we present the first parallel data on Nigerian pidgin 
 * Trained the first end to end speech recognition systems (QuartzNet and Jasper) on this language
