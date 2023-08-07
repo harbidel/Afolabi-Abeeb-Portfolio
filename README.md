@@ -13,7 +13,7 @@ Heart Failure Classification Prediction using Different machine learning Predict
 * Random Forest Classsifier
 * Neural Networks (ANN)
 
-# [Project 3: Movie-Recommendation-Model](https://github.com/harbidel/Movie-Recommendation-Model)
+# [Project 3: Movie Recommendation Model](https://github.com/harbidel/Movie-Recommendation-Model)
 ## Building a Movie Recommendation Model with Matrix Factorization
 ### Summary
 
