@@ -5,7 +5,7 @@ Bulding a simple CNN multi image classifier model to predict the presence of mos
 
 * VGG16 is object detection and classification algorithm which is able to classify 1000 images of 1000 different categories with 92.7% accuracy. It is one of the popular algorithms for image classification and is easy to use with transfer learning.
 
-# [Project 2: Heart-Failure-Prediction](https://github.com/harbidel/Heart-Failure-Prediction/tree/main)
+# [Project 2: Heart Failure Prediction](https://github.com/harbidel/Heart-Failure-Prediction/tree/main)
 Heart Failure Classification Prediction using Different machine learning Prediction ssuch as:
 * Logistic Regression
 * K nearest Neigbough Classifier
