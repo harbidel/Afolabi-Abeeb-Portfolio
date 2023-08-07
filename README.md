@@ -64,7 +64,7 @@ The scenario is a Hotel Management System that caters to a hotel chain with mult
 *	Reservations: Data related to each reservation, including the check-in date, check-out date, and reservation status.
 *	Invoices: Details about the invoices generated for guest stays, including invoice number, total amount, and payment status.
 
-# [Project 7: Lung-Cancer-Model-Deploy-to-Live-Production](https://github.com/harbidel/Lung-Cancer-Model-Deploy-to-Production)
+# [Project 7: Lung Cancer Model Deploy to Live Production](https://github.com/harbidel/Lung-Cancer-Model-Deploy-to-Production)
 Deploying Lung Cancer Machine Learning model to web Applications
 
 Using scikit-learn, pickle, Flask, Microsoft Azure and ipywidgets to fully deploy a Python machine learning algorithm into a live, production environment
@@ -76,5 +76,5 @@ Using scikit-learn, pickle, Flask, Microsoft Azure and ipywidgets to fully deplo
 * Step 4: Deploy the Web Service to Microsoft Azure
 * Step 5: Building a Client Application to Consume the Azure-deployed Web Service
 
-# [Project 8: My blog-app](https://github.com/harbidel/blog-app)
+# [Project 8: My Blog App](https://github.com/harbidel/blog-app)
 My blog-app with Django
