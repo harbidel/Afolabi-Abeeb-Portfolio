@@ -83,3 +83,11 @@ My blog-app with Django
 Deployment of the House Price Sales prediction Using Flask
 
 For this work, I will be using linear regression to predict the sales value in the third month using rate of interest and sales of the first two months.
+
+##Project Structure
+This project has four parts :
+
+* model.py — This contains code for the machine learning model to predict sales in the third month based on the sales in the first two months.
+* app.py — This contains Flask APIs that receives sales details through GUI or API calls, computes the predicted value based on our model and returns it.
+* request.py — This uses requests module to call APIs defined in app.py and displays the returned value.
+* HTML/CSS — This contains the HTML template and CSS styling to allow user to enter sales detail and displays the predicted sales in the third month.
