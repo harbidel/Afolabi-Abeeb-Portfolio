@@ -79,7 +79,7 @@ Using scikit-learn, pickle, Flask, Microsoft Azure and ipywidgets to fully deplo
 # [Project 8: My Blog App](https://github.com/harbidel/blog-app)
 My blog-app with Django
 
-# House-Price-Prediction-Deployment
+# [House-Price-Prediction-Deployment](https://github.com/harbidel/House-Price-Prediction-Deployment)
 Deployment of the House Price Sales prediction Using Flask
 
 For this work, I will be using linear regression to predict the sales value in the third month using rate of interest and sales of the first two months.
