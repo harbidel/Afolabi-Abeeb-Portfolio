@@ -77,14 +77,14 @@ Using scikit-learn, pickle, Flask, Microsoft Azure and ipywidgets to fully deplo
 * Step 5: Building a Client Application to Consume the Azure-deployed Web Service
 
 # [Project 8: My Blog App](https://github.com/harbidel/blog-app)
-My blog-app with Django
+My Blog App with Django
 
 # [Project 9: House-Price-Prediction-Deployment](https://github.com/harbidel/House-Price-Prediction-Deployment)
 Deployment of the House Price Sales prediction Using Flask
 
 For this work, I will be using linear regression to predict the sales value in the third month using rate of interest and sales of the first two months.
 
-##Project Structure
+## Project Structure
 This project has four parts :
 
 * model.py — This contains code for the machine learning model to predict sales in the third month based on the sales in the first two months.
