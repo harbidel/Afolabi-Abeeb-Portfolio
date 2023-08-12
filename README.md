@@ -92,7 +92,7 @@ This project has four parts:
 * request.py — This uses requests module to call APIs defined in app.py and displays the returned value.
 * HTML/CSS — This contains the HTML template and CSS styling to allow user to enter sales detail and displays the predicted sales in the third month.
 
-# Stacked Sack Counting
+# [Stacked Sack Counting](https://github.com/harbidel/Stacked-Sack-Counting)
 Counting of Stacked sacks using Computer Vision
 
 ## Procedure
