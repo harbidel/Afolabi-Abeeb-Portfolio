@@ -67,7 +67,7 @@ The scenario is a Hotel Management System that caters to a hotel chain with mult
 # [Project 7: Lung Cancer Model Deploy to Live Production](https://github.com/harbidel/Lung-Cancer-Model-Deploy-to-Production)
 Deploying Lung Cancer Machine Learning model to web Applications
 
-Using scikit-learn, pickle, Flask, Microsoft Azure and ipywidgets to fully deploy a Python machine learning algorithm into a live, production environment
+Using scikit-learn, pickle, Flask, Microsoft Azure and ipywidgets to fully deploy a Python machine learning algorithm into a live, production environment.
 
 ## Steps
 * Step 1: Develop a Machine Learning Algorithm
