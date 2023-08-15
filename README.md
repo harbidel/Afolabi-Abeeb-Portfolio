@@ -1,4 +1,4 @@
-# My Data Science and Machine Learning Portfolio
+# My Data Science and Machine Learning Portfolio 
 
 # [Project 1: Mosquito on Human Skin Prediction Model](https://github.com/harbidel/Mosquito-on-human-skin-prediction-model)
 Bulding a simple CNN multi image classifier model to predict the presence of mosquito on human skin using transfer Learning (VGG16).
